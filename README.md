@@ -1,10 +1,10 @@
 - 👋 Hey there, I'm Papiya Mazumder
-- 💡 Tech Explorer | Web & Software Dev 
+- 💡 Tech Explorer | Web & Software Dev & Design!✨
 - 💻 Coding in: C#, .NET, HTML, CSS, JS, PYTHON
 - 🧠 Problem-solver 🎨 Creative mind 🤝 Team player 💬 Communicator
 - 🌍 Dreaming of Travel & Building Cool Apps 🚀
 - 🎨 Artist at Heart | Avid Reader 📚 | Series Buff 🍿
-- 💬 Let's chat about code, creativity, and adventures! 🌟
+- 💬 Let's chat about code, creativity, and adventures!🌟
 - 📫 How to reach me: papiyamazumder2@gmail.com
 
 <!---
