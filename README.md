@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @papiya20
-- 👀 I’m interested in FAANG/MAANG...
-- 🌱 I’m currently learning Python, C#...
-- 💞️ I’m looking to collaborate on exciting projects...
-- 📫 How to reach me: papiyamazumder2@gmail.com ...
+- 👋 Hey there, I'm Papiya Mazumder @papiya20
+- 💡 Tech Explorer | Web & Software Dev 
+- 💻 Coding in: C#, .NET, HTML, CSS, JS, PYTHON
+- 🧠 Problem-solver 🎨 Creative mind 🤝 Team player 💬 Communicator
+- 🌍 Dreaming of Travel & Building Cool Apps 🚀
+- 🎨 Artist at Heart | Avid Reader 📚 | Series Buff 🍿
+- 💬 Let's chat about code, creativity, and adventures! 🌟
+- 📫 How to reach me: papiyamazumder2@gmail.com
 
 <!---
 papiya20/papiya20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
