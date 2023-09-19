@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm Papiya Mazumder @papiya20
+- 👋 Hey there, I'm Papiya Mazumder
 - 💡 Tech Explorer | Web & Software Dev 
 - 💻 Coding in: C#, .NET, HTML, CSS, JS, PYTHON
 - 🧠 Problem-solver 🎨 Creative mind 🤝 Team player 💬 Communicator
